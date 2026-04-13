@@ -73,4 +73,4 @@ The project is configured to run on **Port 3000** by default.
 - **Build Command**: `npm run build` compiles the frontend assets into the `dist` folder for production deployment.
 
 ---
-*This project was developed as a portfolio piece to demonstrate high-end frontend engineering and product design capabilities in the travel and hospitality sector.*
+*This project was developed as a portfolio piece to demonstrate high-end frontend and backend engineering and product design capabilities in the travel and hospitality sector.*
