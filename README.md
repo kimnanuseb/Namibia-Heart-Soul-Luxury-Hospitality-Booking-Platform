@@ -1,8 +1,18 @@
 # Case Study: Namibia Heart & Soul
 ## Reimagining Luxury Hospitality in the Digital Age
 
+**[Live Demo](https://namibia-heart-soul.pages.dev)** | **[GitHub Repository](https://github.com/kimnanuseb/Namibia-Heart-Soul-Luxury-Hospitality-Booking-Platform)**
+
 ### Overview
 Namibia Heart & Soul is a premium digital booking platform designed for a high-end collection of sustainably operated lodges and camps across Namibia. Inspired by the rugged beauty and sophisticated hospitality of the Gondwana region, this project serves as a showcase for a modern, full-stack booking ecosystem.
+
+### Core Competencies & Skills Demonstrated
+This project highlights several key areas of software engineering and design:
+- **Full-Stack Development**: Seamless integration of a React 19 frontend with an Express.js backend API, managing data flow from server to client.
+- **Modern UI/UX Design**: Implementation of a "Warm Organic" design system using Tailwind CSS 4.0, featuring glass-morphism, responsive grids, and micro-animations to create a premium feel.
+- **State Management & Client-Side Filtering**: Dynamic, real-time filtering of properties based on complex user criteria (destination, dates, guests) using React hooks.
+- **API Design & Mocking**: Creation of robust RESTful endpoints (`/api/properties`, `/api/bookings`) that simulate database interactions and handle data payloads securely.
+- **Deployment & Cloud Architecture**: Serverless deployment strategy using Cloudflare Pages, with API routes transitioned seamlessly to Cloudflare Functions.
 
 ### The Challenge
 The primary goal was to create a digital experience that felt as organic and refined as the physical lodges themselves. Traditional booking systems often feel clinical and transactional; this project aimed to transform "booking a room" into "starting a journey."
